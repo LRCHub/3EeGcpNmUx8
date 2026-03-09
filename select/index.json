@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "モンスター（feat. yama）",
+  "base_artist": "ジェニーハイ",
+  "createdAt": "2026-03-09T13:26:14.394676Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "モンスター (feat. yama)",
+      "artist": "Genie High feat. yama",
+      "has_synced": true,
+      "path": "select/01_モンスター_(feat._yama)_Genie_High_feat._yama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "モンスター (feat. yama)",
+      "artist": "Genie High/yama",
+      "has_synced": true,
+      "path": "select/02_モンスター_(feat._yama)_Genie_High_yama.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "モンスター (feat. yama)",
+      "artist": "Genie High",
+      "has_synced": true,
+      "path": "select/03_モンスター_(feat._yama)_Genie_High.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "モンスター (feat. yama)",
+      "artist": "Genie High",
+      "has_synced": true,
+      "path": "select/04_モンスター_(feat._yama)_Genie_High.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "モンスター feat. 秦基博",
+      "artist": "大橋トリオ",
+      "has_synced": true,
+      "path": "select/05_モンスター_feat._秦基博_大橋トリオ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ラズベリー*モンスター (feat. un:c) (フラット3rd Remix)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/06_ラズベリー_モンスター_(feat._un_c)_(フラット3rd_Remix)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ラズベリー＊モンスター (feat. 鎖那)",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/07_ラズベリー_モンスター_(feat._鎖那)_HoneyWorks.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ラズベリー∗モンスター (feat․ kradness)",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/08_ラズベリー∗モンスター_(feat._kradness)_HoneyWorks.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モンスター (feat. yama)",
+      "artist": "ジェニーハイ",
+      "has_synced": false,
+      "path": "select/pl_01_モンスター_(feat._yama)_ジェニーハイ.txt"
+    }
+  ]
+}
